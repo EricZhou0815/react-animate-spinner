@@ -10,11 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/EricZhou0815/react-animate-spinner.git"
   },
-  "keywords": ["react","css","spinners"],
+  "keywords": [
+    "react",
+    "css",
+    "spinners"
+  ],
   "author": "Eric Zhou",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/EricZhou0815/react-animate-spinner/issues"
   },
-  "homepage": "https://github.com/EricZhou0815/react-animate-spinner#readme"
+  "homepage": "https://github.com/EricZhou0815/react-animate-spinner#readme",
+  "devDependencies": {
+    "eslint": "^5.15.1"
+  }
 }
